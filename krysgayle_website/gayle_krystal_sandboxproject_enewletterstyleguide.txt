@@ -1,0 +1,11 @@
+Style Sheet
+
+style="font-family: Arial Rounded Bold MT, Helvetica, sans-serif; font-size: 12px; font-weight: normal; line-height: 18px"
+
+style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; line-height: 12px"
+
+yellow hex code: #fcb040
+red hex code: #ff3344
+white hex code: #ffffff
+gray hex code: #a7a9ac
+

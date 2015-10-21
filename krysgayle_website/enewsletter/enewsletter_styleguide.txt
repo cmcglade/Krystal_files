@@ -1,0 +1,11 @@
+style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; line-height: 12px"
+style="font-family: Georgia, 'Times New Roman', serif; font-size: 12pm; font-weight: normal; line-height: 12px"
+
+green hex code: #7da149
+brown hex code: #362f25
+off-white hex code: #f3f1e5
+black hex code: #0b040c
+deep red hex code: #8b291c
+
+bottomimage_floral.jpg
+logo_ecocompany.jpg

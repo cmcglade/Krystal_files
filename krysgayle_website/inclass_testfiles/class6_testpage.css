@@ -1,0 +1,15 @@
+/* Just for Laughs */
+
+body {
+    font-family: "Arial", sans-serif;
+    color: #8B7900; 
+    background-color: whitesmoke
+}
+
+h1 { color: darkgreen
+}
+    
+img {
+    width:500px;
+    border: 10px #008B8B;
+}
