@@ -8,10 +8,13 @@ teal hex code: #1a8269
 green hex code: #b3d330
 yellow hex code: #fdcf07
 orange hex code: #fe6601
-
+font: dark gray 
  
+images: 
 
-
-bottomimage_floral.jpg
-logo_ecocompany.jpg
-\\
+fluidlayout_logo.jpg
+fluidlayout_h1.jpg
+fluidlayout_image1.jpg
+fluidlayout_image2.jpg
+fluidlayout_image3.jpg
+fluidlayout_image4.jpg

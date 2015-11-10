@@ -1,0 +1,217 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    background color: #f5f0ec;
+}
+
+body {
+    font-family: Arial, Helvetica, bold, sans-serif;
+    font-size: 100%;
+}
+
+h2 {
+    font-family: arial, sans-serif;
+    font-size: 150%;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: arial, sans-serif;
+    font-size: 100%;
+    margin-top: 10px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+h4 {
+    font-family: arial, sans-serif;
+    font-size: 80%;
+    margin-top: 10px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-weight: 1300; 
+}
+
+hr { 
+    display: block;
+    border-style: groove, gray;
+    border-width: 2px;
+}
+
+/* class tags */
+
+.outer {
+    background: #f5f0ec;
+    width: 100%;
+    height: 1650px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.content {
+    background: #FFFFFF; 
+    width: 90%;
+    height: 90%;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 0px 20px;
+}
+
+.div {
+    display: block;
+}
+
+.nav {
+    background: #FFFFFF;
+    width: 100%;
+    height: 90px;  
+}
+
+.navlink {
+    list-style-type: none;
+    color: dimgray;
+    margin-left: 100px; 
+    margin-right: 25px;
+    margin-top: 30px; 
+    float: left;
+    text-align: right; 
+}
+
+.logo {
+    float: left;
+    display: inline-flex;
+}
+
+.headerimage {
+    width: 100%;
+}
+.boxsection {
+    float: left;
+    color: #FFFFFF;
+    font-size: 80%;
+}
+
+.box1_innovation {
+    background-color: #1a8269;
+    width: 23%;
+    float: inherit;
+    padding: 0px 10px 20px 10px;
+}
+
+.box2_support {
+    background-color: #b3d330;
+    width: 23%;
+    float: inherit;
+    padding: 0px 10px 20px 10px;
+}
+
+.box3_careers {
+    background-color: #fdcf07;
+    width: 23%;
+    float: inherit;
+    padding: 0px 10px 20px 10px;
+}
+
+.box4_partners {
+    background-color: #fe6601;
+    width: 23%;
+    float: inherit;
+    padding: 0px 10px 20px 10px;
+}
+
+.button {
+    background: #FFFFFF;
+    color: #000000;  
+    margin-top: 10px;
+}
+
+.ourprojects {
+    color: darkslategrey;
+    float:left;
+    width: 100%;
+}
+
+.project {
+    width: 25%;
+    float: left;
+    color: dimgrey;
+    text-align: left;
+    font-size: 80%;
+    text-emphasis: bold;
+    padding-bottom: 3em;
+}
+
+.projectname {
+    color: #fe6601;
+    font-size: 100%;
+}
+
+.footer {
+    background-color: #ffffff;
+    float: left;
+    width: 100%;
+    font-size:90%;
+}
+
+.links {
+    text-align: left;
+    float: left;
+    width: 23%;
+    margin-left: 15px;
+}
+
+.footerlink {
+    list-style-type: square;
+    list-style-position: inherit;
+    color: dimgray;
+    padding-bottom: 1em;
+    text-align: left;
+    font-style: italic;
+    font-size: 80%;
+    width: 40%;
+    margin-left: 15px;
+}
+
+.socialmedia {
+    float: right; 
+    color: dimgray;
+    margin-top: 10px; 
+    margin-right: 100px;
+}
+
+.icon {
+    width: 15px;
+    height: 15px;
+}
+
+/* id tags */
+
+#homelogo {
+    height: 80px;
+    float: left;
+    display: inline-block;
+}
+
+#follow {
+    font-size: 50%;
+    color: gray;
+    padding: 5px;
+}
+
